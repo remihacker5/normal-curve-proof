@@ -14,3 +14,4 @@ My dad was trying to make a normal curve using a Dice app and paper,
 but it didn't seem to work,
 so I decided to automate the process using python. Turns out, he wasn't collecting enough data.
 ## Screenshots
+![alt text](https://github.com/remihacker5/normal-curve-proof/blob/main/proof.png?raw=true)
